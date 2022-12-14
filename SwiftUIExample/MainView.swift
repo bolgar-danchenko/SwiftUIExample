@@ -23,7 +23,6 @@ struct MainView: View {
                 .tabItem {
                     Label("Table", systemImage: "tablecells")
                 }
-            
         }
     }
 }
