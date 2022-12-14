@@ -21,7 +21,11 @@ struct CharactersRow: View {
                 .padding(.trailing, 15)
                 .padding(.top, 5)
                 .padding(.bottom, 5)
-            Text(character.name)
+            VStack(alignment: .leading) {
+                Text(character.name)
+                Text(character.game)
+                    .foregroundColor(.secondary)
+            }
             Spacer()
         }
         .background(Color(.systemGray5))
