@@ -11,7 +11,7 @@ import SwiftUI
 struct MainView: View {
     var body: some View {
         TabView {
-            ContentView()
+            LessonCodeView()
                 .tabItem {
                     Label("Lesson Code", systemImage: "swift")
                 }
@@ -19,9 +19,9 @@ struct MainView: View {
                 .tabItem {
                     Label("Login", systemImage: "person")
                 }
-            TableView()
+            ListView()
                 .tabItem {
-                    Label("Table", systemImage: "tablecells")
+                    Label("List", systemImage: "list.bullet")
                 }
         }
     }

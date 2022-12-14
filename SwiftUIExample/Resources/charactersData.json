@@ -1,0 +1,123 @@
+[
+    {
+        "name": "Ezio Auditore da Firenze",
+        "game": "Assassin's Creed II",
+        "id": 1001,
+
+        "description": "Ezio Auditore da Firenze (1459 – 1524) was a Florentine nobleman during the Renaissance, and, unbeknownst to most historians and philosophers, a Master Assassin and the Mentor of the Italian Brotherhood of Assassins, a title which he held from 1503 to 1513. He is also an ancestor of William and Desmond Miles, as well as Clay Kaczmarek.",
+        "imageName": "ezio"
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "game": "Assassin's Creed II",
+        "id": 1002,
+
+        "description": "Leonardo di ser Piero da Vinci (1452 – 1519), more commonly Leonardo da Vinci or simply Leonardo, was an Italian anatomist, sculptor, cartographer, painter, botanist, engineer, architect, and mathematician of the Renaissance. He is widely regarded by scholars, engineers, and artists around the world to be one of the greatest minds in history.",
+        "imageName": "leonardo"
+    },
+    {
+        "name": "Rodrigo Borgia",
+        "game": "Assassin's Creed II",
+        "id": 1003,
+
+        "description": "Rodrigo Borgia (1431 – 1503), born Roderic Llançol i de Borja (Valencian: Rodrigo Liançol i de Borja; Spanish: Rodrigo Lanzoi y de Borja), was the head of the Catholic Church from 11 August 1492 until his death, reigning as Pope Alexander VI. From 1476, he served as Grand Master of the Roman Rite of the Templar Order.",
+        "imageName": "rodrigo"
+    },
+    {
+        "name": "Desmond Miles",
+        "game": "Assassin's Creed II",
+        "id": 1004,
+
+        "description": "Desmond Miles (1987 – 2012) was a member of the Assassins and a descendant of numerous familial lines that had sworn an allegiance to the Assassins, including individuals such as Aquilus, Altaïr Ibn-La'Ahad, Ezio Auditore, Edward Kenway, and Ratonhnhaké:ton. He was also the son of the Mentor William Miles and unknowingly the father of Elijah, a young Sage.",
+        "imageName": "desmond"
+    },
+    {
+        "name": "Lorenzo de' Medici",
+        "game": "Assassin's Creed II",
+        "id": 1005,
+
+        "description": "Lorenzo de' Medici (1449 – 1492) was an Italian statesman and de facto ruler of the Florentine Republic during the Italian Renaissance. Known as il Magnifico (the Magnificent) by contemporary Florentines, he was a diplomat, politician and patron of scholars, artists, and poets.",
+        "imageName": "lorenzo"
+    },
+    {
+        "name": "Edward Kenway",
+        "game": "Assassin's Creed: Black Flag",
+        "id": 1006,
+
+        "description": "Edward James Kenway (1693 – 1735) was a Welsh-born British privateer-turned-pirate and a member of the West Indies and British Brotherhoods of Assassins.",
+        "imageName": "edward"
+    },
+    {
+        "name": "Mary Read",
+        "game": "Assassin's Creed: Black Flag",
+        "id": 1007,
+
+        "description": "Mary Read (c. 1685 – 1721) was an English pirate and member of the West Indies Brotherhood of Assassins, trained by the Mentor Ah Tabai. She was also one of the founders of the Pirate Republic of Nassau.",
+        "imageName": "mary"
+    },
+    {
+        "name": "Edward Thatch",
+        "game": "Assassin's Creed: Black Flag",
+        "id": 1008,
+
+        "description": "Edward Thatch (c. 1680 – 1718), also known by the alias Blackbeard, was an infamous English pirate captain who sailed the West Indies and the eastern seaboard of the American colonies during the early 18th century, aboard the ship Queen Anne's Revenge, being one of the most respected crime lords of the time.",
+        "imageName": "thatch"
+    },
+    {
+        "name": "Haytham Kenway",
+        "game": "Assassin's Creed III",
+        "id": 1009,
+
+        "description": "Haytham E. Kenway (1725 – 1781) was the first Grand Master of the Templar Order's Colonial Rite, reigning from 1754 until his death in 1781, whereupon he was succeeded by Charles Lee.",
+        "imageName": "haytham"
+    },
+    {
+        "name": "George Washington",
+        "game": "Assassin's Creed III",
+        "id": 1010,
+
+        "description": "George Washington (1732 – 1799) was the Commander-in-Chief of the Continental Army in the American Revolutionary War from 1775 to 1783, and served as the first President of the United States from 30 April 1789 to 4 March 1797.",
+        "imageName": "washington"
+    },
+    {
+        "name": "Benjamin Franklin",
+        "game": "Assassin's Creed III",
+        "id": 1011,
+
+        "description": "Benjamin Franklin (1706 – 1790) was one of the Founding Fathers of the United States. A noted polymath, he was a leading author, political theorist, politician, postmaster, scientist, musician, inventor, civic activist, and diplomat.",
+        "imageName": "franklin"
+    },
+    {
+        "name": "Minerva",
+        "game": "Assassin's Creed III",
+        "id": 1012,
+
+        "description": "Minerva was an Isu scientist, Sacred Voice, and a member of the Capitoline Triad. As part of the Triad, she worked in close collaboration with the Father of Understanding Jupiter and the Mother of Wisdom Juno to prevent the First Disaster, and its recurrence.",
+        "imageName": "minerva"
+    },
+    {
+        "name": "Arno Dorian",
+        "game": "Assassin's Creed: Unity",
+        "id": 1013,
+
+        "description": "Arno Victor Dorian (born 1768) was a member of the French Brotherhood of Assassins and a Master Assassin during the French Revolution. He is also an ancestor of the modern Assassin Callum Lynch.",
+        "imageName": "arno"
+    },
+    {
+        "name": "Napoleon Bonaparte",
+        "game": "Assassin's Creed: Unity",
+        "id": 1014,
+
+        "description": "Napoléon Bonaparte (1769 – 1821), born Napoleone di Buonaparte, and later Napoleon I, was a Corsican military and political leader who ruled first as the First Consul of France from 1799 to 1804, then as Emperor of the French from 1804 to 1815.",
+        "imageName": "napoleon"
+    },
+    {
+        "name": "Charles Darwin",
+        "game": "Assassin's Creed: Syndicate",
+        "id": 1015,
+
+        "description": "Charles Robert Darwin (1809 – 1882) was an English naturalist and geologist, best known for his contributions to evolutionary theory. He is an ancestor to Vanessa.",
+        "imageName": "darwin"
+    },
+   
+]
