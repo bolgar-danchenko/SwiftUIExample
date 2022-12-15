@@ -1,3 +1,3 @@
 # SwiftUIExample
 
-Netology homework for the lesson "SwiftUI".
+This demo app has been created as a Netology homework for the lesson "SwiftUI".
